@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Soumya Ranjan Jena 👋
 
-<!--
-**soumya111jena-stack/soumya111jena-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on:
 
-Here are some ideas to get you started:
+* GIS & GPS Tracking Platforms
+* Fintech Applications
+* Transport Management Systems
+* Employee Attendance & Live Tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+
+* GeoXIS
+* OnePay
+* Transport Management System
+* Project Management System
+
+## Tech Stack
+
+React • Node.js • NestJS • PostgreSQL • PHP • Prisma • GIS • PostGIS
+
+## Currently Working On
+
+* GeoXIS Employee Tracking
+* Live GPS Monitoring
+* Attendance & Route History System
+* Enterprise Transport Solutions
